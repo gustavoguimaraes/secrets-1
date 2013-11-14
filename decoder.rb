@@ -19,11 +19,8 @@ white_spaces_in = sub_6_with_a.gsub("y", " ")
 # result: ydob reve no hsurc a evah i
 add_y = white_spaces_in.insert(1, "y")
 
-
-
 #ydob yreve no hsurc a evah i
 add_another_y = add_y.insert(6, "y")
-
 
 
 #i have a crush on every body
